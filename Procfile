@@ -1,1 +1,1 @@
-worker lianxi.js
+worker node lianxi.js
